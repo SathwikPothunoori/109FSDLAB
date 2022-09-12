@@ -1,0 +1,24 @@
+[
+    {
+        "_id": "631f06530a481fb84936d044",
+        "name": "puri",
+        "description": "test",
+        "image": "https://www.indianhealthyrecipes.com/soft-idli-recipe-using-idli-rava/",
+        "category": "break-fast",
+        "label": "ok",
+        "price": 40,
+        "featured": false,
+        "comments": [
+            {
+                "rating": 4,
+                "comment": "super",
+                "_id": "631f06530a481fb84936d045",
+                "createdAt": "2022-09-12T10:13:39.172Z",
+                "updatedAt": "2022-09-12T10:13:39.172Z"
+            }
+        ],
+        "createdAt": "2022-09-12T10:13:39.173Z",
+        "updatedAt": "2022-09-12T10:13:39.173Z",
+        "__v": 0
+    }
+]
